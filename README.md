@@ -52,7 +52,7 @@ cd digital-clock
 - The digital clock will display and update in real-time automatically
 
 ---
-📌 Notes
+## 📌 Notes
 
 🧠 A beginner-friendly project to understand JavaScript setInterval and DOM updates.
 
@@ -64,6 +64,6 @@ cd digital-clock
 
 - Date display or alarm functionality
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Made by Shubham Ghai
